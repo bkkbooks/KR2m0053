@@ -24,6 +24,7 @@ markers:
       ', id: KR2m0053_krp_293-bkkkrnewl2}
   - {type: line-break, offset: 4, content: '', id: KR2m0053_WYG_293-1a04}
   - {type: indent, offset: 4, content: 　　, id: KR2m0053_krp_293-bkkind2}
+  - {type: substitution, offset: 5, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: 'kr:newline', offset: 12, content: '
 
       ', id: KR2m0053_krp_293-bkkkrnewl3}
@@ -603,4 +604,4 @@ markers:
 
       ', id: KR2m0053_krp_293-bkkkrnewl160}
   back: []
-hash: sha256:e5992469e7dafe1e737eefa448bcf69fd9da5831470b9fcc1518f9d6e7f2d985
+hash: sha256:21f6f447a2efb0e9388b7e9f020e5016ba977a569ff73a2e7b9424fd2ac05166
