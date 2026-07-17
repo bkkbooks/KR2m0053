@@ -24,6 +24,7 @@ markers:
   - {type: line-break, offset: 22, content: '', id: KR2m0053_WYG_164-1a04}
   - {type: indent, offset: 22, content: 　　　, id: KR2m0053_krp_164-bkkind4}
   - {type: punctuation, offset: 27, content: (, id: KR2m0053_krp_164-bkkpn1}
+  - {type: voice, offset: 27, length: 32, name: note, id: n1}
   - {type: substitution, offset: 30, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 41, content: /, id: KR2m0053_krp_164-bkkpn2}
   - {type: punctuation, offset: 49, content: ), id: KR2m0053_krp_164-bkkpn3}
@@ -53,6 +54,7 @@ markers:
   - {type: line-break, offset: 59, content: '', id: KR2m0053_WYG_164-1a06}
   - {type: indent, offset: 59, content: 　　　　, id: KR2m0053_krp_164-bkkind9}
   - {type: punctuation, offset: 62, content: (, id: KR2m0053_krp_164-bkkpn16}
+  - {type: voice, offset: 62, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 65, content: /, id: KR2m0053_krp_164-bkkpn17}
   - {type: punctuation, offset: 65, content: ), id: KR2m0053_krp_164-bkkpn18}
   - {type: 'kr:newline', offset: 65, content: '
@@ -415,6 +417,7 @@ markers:
   - {type: line-break, offset: 1010, content: '', id: KR2m0053_WYG_164-5a07}
   - {type: indent, offset: 1010, content: 　　　　, id: KR2m0053_krp_164-bkkind44}
   - {type: punctuation, offset: 1013, content: (, id: KR2m0053_krp_164-bkkpn19}
+  - {type: voice, offset: 1013, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 1017, content: /, id: KR2m0053_krp_164-bkkpn20}
   - {type: punctuation, offset: 1017, content: ), id: KR2m0053_krp_164-bkkpn21}
   - {type: 'kr:newline', offset: 1017, content: '
@@ -3265,4 +3268,4 @@ markers:
 
       ', id: KR2m0053_krp_164-bkkkrnewl630}
   back: []
-hash: sha256:57767e44a02b13eb654afef1ea683149c5aa25e43a3c7efdbe7d641f6d4c2ecc
+hash: sha256:ee5c3e71473416e5d9e118ea0dc8cd1b9f7731fbe662b8ab70633190497c9da1

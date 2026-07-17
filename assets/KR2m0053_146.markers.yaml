@@ -24,6 +24,7 @@ markers:
   - {type: line-break, offset: 23, content: '', id: KR2m0053_WYG_146-1a04}
   - {type: indent, offset: 23, content: 　　　, id: KR2m0053_krp_146-bkkind4}
   - {type: punctuation, offset: 29, content: (, id: KR2m0053_krp_146-bkkpn1}
+  - {type: voice, offset: 29, length: 51, name: note, id: n1}
   - {type: substitution, offset: 36, original: 壮, replacement: 壯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16378}}
   - {type: punctuation, offset: 41, content: /, id: KR2m0053_krp_146-bkkpn2}
   - {type: punctuation, offset: 52, content: ), id: KR2m0053_krp_146-bkkpn3}
@@ -491,6 +492,7 @@ markers:
   - {type: line-break, offset: 1427, content: '', id: KR2m0053_WYG_146-6a05}
   - {type: indent, offset: 1427, content: 　　　　, id: KR2m0053_krp_146-bkkind64}
   - {type: punctuation, offset: 1440, content: (, id: KR2m0053_krp_146-bkkpn7}
+  - {type: voice, offset: 1440, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1444, content: /, id: KR2m0053_krp_146-bkkpn8}
   - {type: punctuation, offset: 1444, content: ), id: KR2m0053_krp_146-bkkpn9}
   - {type: 'kr:newline', offset: 1444, content: '
@@ -697,6 +699,7 @@ markers:
   - {type: line-break, offset: 2028, content: '', id: KR2m0053_WYG_146-8b01}
   - {type: indent, offset: 2028, content: 　　　　, id: KR2m0053_krp_146-bkkind90}
   - {type: punctuation, offset: 2036, content: (, id: KR2m0053_krp_146-bkkpn10}
+  - {type: voice, offset: 2036, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 2044, content: /, id: KR2m0053_krp_146-bkkpn11}
   - {type: punctuation, offset: 2047, content: ), id: KR2m0053_krp_146-bkkpn12}
   - {type: indent, offset: 2047, content: 　, id: KR2m0053_krp_146-bkkind91}
@@ -1747,4 +1750,4 @@ markers:
 
       ', id: KR2m0053_krp_146-bkkkrnewl342}
   back: []
-hash: sha256:8327790ed94bab4aa49cb8ef1bcde1b669e7296ba1b8a7a74e106ddeeee13ef6
+hash: sha256:391171fe297443d0e774f376b27a5bd8415895821807bee16e31bc71fed3d05f

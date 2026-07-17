@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 22, content: '', id: KR2m0053_WYG_136-1a04}
   - {type: indent, offset: 22, content: 　　　, id: KR2m0053_krp_136-bkkind3}
   - {type: punctuation, offset: 30, content: (, id: KR2m0053_krp_136-bkkpn1}
+  - {type: voice, offset: 30, length: 35, name: note, id: n1}
   - {type: substitution, offset: 39, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 41, content: /, id: KR2m0053_krp_136-bkkpn2}
   - {type: substitution, offset: 45, original: 恵, replacement: 惠, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19935}}
@@ -575,6 +576,7 @@ markers:
   - {type: substitution, offset: 1579, original: 恵, replacement: 惠, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19935}}
   - {type: substitution, offset: 1584, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 1586, content: (, id: KR2m0053_krp_136-bkkpn10}
+  - {type: voice, offset: 1586, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 1590, content: /, id: KR2m0053_krp_136-bkkpn11}
   - {type: punctuation, offset: 1592, content: ), id: KR2m0053_krp_136-bkkpn12}
   - {type: indent, offset: 1592, content: 　, id: KR2m0053_krp_136-bkkind68}
@@ -2176,4 +2178,4 @@ markers:
 
       ', id: KR2m0053_krp_136-bkkkrnewl414}
   back: []
-hash: sha256:9d491719237329cc40178e88e80b00b0b4f8814a2f8e2aefbf12eaa3b63d16ba
+hash: sha256:0c3508ba893cd1787a75770ef93bd999c1a1eca98d609dba9bc13d00cc6c4869

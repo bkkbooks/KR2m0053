@@ -24,6 +24,7 @@ markers:
   - {type: line-break, offset: 24, content: '', id: KR2m0053_WYG_171-1a04}
   - {type: indent, offset: 24, content: 　　　, id: KR2m0053_krp_171-bkkind4}
   - {type: punctuation, offset: 30, content: (, id: KR2m0053_krp_171-bkkpn1}
+  - {type: voice, offset: 30, length: 39, name: note, id: n1}
   - {type: substitution, offset: 36, original: 譚, replacement: 談, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20152}}
   - {type: punctuation, offset: 41, content: /, id: KR2m0053_krp_171-bkkpn2}
   - {type: punctuation, offset: 48, content: ), id: KR2m0053_krp_171-bkkpn3}
@@ -2701,6 +2702,7 @@ markers:
   - {type: line-break, offset: 7687, content: '', id: KR2m0053_WYG_171-29a05}
   - {type: indent, offset: 7687, content: 　　　　, id: KR2m0053_krp_171-bkkind340}
   - {type: punctuation, offset: 7693, content: (, id: KR2m0053_krp_171-bkkpn19}
+  - {type: voice, offset: 7693, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 7697, content: /, id: KR2m0053_krp_171-bkkpn20}
   - {type: punctuation, offset: 7697, content: ), id: KR2m0053_krp_171-bkkpn21}
   - {type: 'kr:newline', offset: 7697, content: '
@@ -3106,6 +3108,7 @@ markers:
   - {type: line-break, offset: 8793, content: '', id: KR2m0053_WYG_171-33b01}
   - {type: indent, offset: 8793, content: 　　　　, id: KR2m0053_krp_171-bkkind389}
   - {type: punctuation, offset: 8795, content: (, id: KR2m0053_krp_171-bkkpn22}
+  - {type: voice, offset: 8795, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 8798, content: /, id: KR2m0053_krp_171-bkkpn23}
   - {type: punctuation, offset: 8798, content: ), id: KR2m0053_krp_171-bkkpn24}
   - {type: 'kr:newline', offset: 8798, content: '
@@ -3447,4 +3450,4 @@ markers:
 
       ', id: KR2m0053_krp_171-bkkkrnewl648}
   back: []
-hash: sha256:9370f3792fae4fab33ff88631d8b5a52de817c4b181ccf837fccb67fad251b62
+hash: sha256:6e5b5de9165014a349eae831444b16696845d291170c546df97df9b9e9d00a66

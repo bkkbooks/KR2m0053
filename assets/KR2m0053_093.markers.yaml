@@ -22,6 +22,7 @@ markers:
   - {type: line-break, offset: 4, content: '', id: KR2m0053_WYG_093-1a04}
   - {type: indent, offset: 4, content: 　　, id: KR2m0053_krp_093-bkkind2}
   - {type: punctuation, offset: 8, content: (, id: KR2m0053_krp_093-bkkpn1}
+  - {type: voice, offset: 8, length: 9, name: note, id: n1}
   - {type: substitution, offset: 13, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20169}}
   - {type: punctuation, offset: 17, content: /, id: KR2m0053_krp_093-bkkpn2}
   - {type: punctuation, offset: 17, content: ), id: KR2m0053_krp_093-bkkpn3}
@@ -1847,6 +1848,7 @@ markers:
   - {type: line-break, offset: 4885, content: '', id: KR2m0053_WYG_093-19a01}
   - {type: indent, offset: 4885, content: 　　, id: KR2m0053_krp_093-bkkind275}
   - {type: punctuation, offset: 4888, content: (, id: KR2m0053_krp_093-bkkpn4}
+  - {type: voice, offset: 4888, length: 14, name: note, id: n2}
   - {type: punctuation, offset: 4895, content: /, id: KR2m0053_krp_093-bkkpn5}
   - {type: punctuation, offset: 4902, content: ), id: KR2m0053_krp_093-bkkpn6}
   - {type: 'kr:newline', offset: 4911, content: '
@@ -1866,6 +1868,7 @@ markers:
   - {type: line-break, offset: 4949, content: '', id: KR2m0053_WYG_093-19a04}
   - {type: indent, offset: 4949, content: 　　, id: KR2m0053_krp_093-bkkind278}
   - {type: punctuation, offset: 4955, content: (, id: KR2m0053_krp_093-bkkpn7}
+  - {type: voice, offset: 4955, length: 16, name: note, id: n3}
   - {type: punctuation, offset: 4963, content: /, id: KR2m0053_krp_093-bkkpn8}
   - {type: punctuation, offset: 4971, content: ), id: KR2m0053_krp_093-bkkpn9}
   - {type: 'kr:newline', offset: 4976, content: '
@@ -2451,4 +2454,4 @@ markers:
 
       ', id: KR2m0053_krp_093-bkkkrnewl430}
   back: []
-hash: sha256:a155221dca4738dc2d53cef36d9fd85a4cc7d3ed88dc0c5288610bb3765d149e
+hash: sha256:273a5c7f39c236a896d5ee8dab858b1a23a8b620a995edf32f82960881222dbb

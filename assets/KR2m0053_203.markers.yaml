@@ -24,6 +24,7 @@ markers:
   - {type: line-break, offset: 24, content: '', id: KR2m0053_WYG_203-1a04}
   - {type: indent, offset: 24, content: 　　　, id: KR2m0053_krp_203-bkkind4}
   - {type: punctuation, offset: 30, content: (, id: KR2m0053_krp_203-bkkpn1}
+  - {type: voice, offset: 30, length: 39, name: note, id: n1}
   - {type: substitution, offset: 33, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 43, content: /, id: KR2m0053_krp_203-bkkpn2}
   - {type: punctuation, offset: 51, content: ), id: KR2m0053_krp_203-bkkpn3}
@@ -845,6 +846,7 @@ markers:
   - {type: line-break, offset: 2275, content: '', id: KR2m0053_WYG_203-10a01}
   - {type: indent, offset: 2275, content: 　　　　, id: KR2m0053_krp_203-bkkind109}
   - {type: punctuation, offset: 2278, content: (, id: KR2m0053_krp_203-bkkpn16}
+  - {type: voice, offset: 2278, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2281, content: /, id: KR2m0053_krp_203-bkkpn17}
   - {type: punctuation, offset: 2281, content: ), id: KR2m0053_krp_203-bkkpn18}
   - {type: 'kr:newline', offset: 2281, content: '
@@ -3740,6 +3742,7 @@ markers:
   - {type: line-break, offset: 10772, content: '', id: KR2m0053_WYG_203-40b07}
   - {type: indent, offset: 10772, content: 　　　　, id: KR2m0053_krp_203-bkkind501}
   - {type: punctuation, offset: 10775, content: (, id: KR2m0053_krp_203-bkkpn19}
+  - {type: voice, offset: 10775, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 10778, content: /, id: KR2m0053_krp_203-bkkpn20}
   - {type: punctuation, offset: 10778, content: ), id: KR2m0053_krp_203-bkkpn21}
   - {type: 'kr:newline', offset: 10778, content: '
@@ -4225,4 +4228,4 @@ markers:
 
       ', id: KR2m0053_krp_203-bkkkrnewl810}
   back: []
-hash: sha256:bc32363ef81505dd0829e37965769f22a6cf59793c02a325270f4227e22d80f9
+hash: sha256:7dcee6dbec1ff2da12cb3c5ba1c1d9874020bd45313baca51263d99f0ce96c23

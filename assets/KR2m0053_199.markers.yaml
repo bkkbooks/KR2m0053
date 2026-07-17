@@ -25,6 +25,7 @@ markers:
   - {type: indent, offset: 24, content: 　　　, id: KR2m0053_krp_199-bkkind4}
   - {type: punctuation, offset: 30, content: (, id: KR2m0053_krp_199-bkkpn1}
   - {type: substitution, offset: 30, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
+  - {type: voice, offset: 30, length: 37, name: note, id: n1}
   - {type: substitution, offset: 33, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: substitution, offset: 36, original: 頼, replacement: 賴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17567}}
   - {type: substitution, offset: 37, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
@@ -224,6 +225,7 @@ markers:
   - {type: line-break, offset: 418, content: '', id: KR2m0053_WYG_199-3a02}
   - {type: indent, offset: 418, content: 　　　　, id: KR2m0053_krp_199-bkkind27}
   - {type: punctuation, offset: 420, content: (, id: KR2m0053_krp_199-bkkpn22}
+  - {type: voice, offset: 420, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 424, content: /, id: KR2m0053_krp_199-bkkpn23}
   - {type: punctuation, offset: 424, content: ), id: KR2m0053_krp_199-bkkpn24}
   - {type: 'kr:newline', offset: 424, content: '
@@ -556,6 +558,7 @@ markers:
   - {type: indent, offset: 1295, content: 　　　　, id: KR2m0053_krp_199-bkkind65}
   - {type: substitution, offset: 1296, original: 頼, replacement: 賴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17567}}
   - {type: punctuation, offset: 1301, content: (, id: KR2m0053_krp_199-bkkpn25}
+  - {type: voice, offset: 1301, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 1304, content: /, id: KR2m0053_krp_199-bkkpn26}
   - {type: punctuation, offset: 1304, content: ), id: KR2m0053_krp_199-bkkpn27}
   - {type: 'kr:newline', offset: 1304, content: '
@@ -4281,4 +4284,4 @@ markers:
 
       ', id: KR2m0053_krp_199-bkkkrnewl810}
   back: []
-hash: sha256:7b947f919458ac9a22f91301e91da741a9d3b94adeaedd28b0b68256953b691d
+hash: sha256:a555530913ee3919cd975187918d7b9821cd1c79a74ac68ef2f071228c6afbab

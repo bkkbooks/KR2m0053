@@ -295,6 +295,7 @@ markers:
   - {type: line-break, offset: 709, content: '', id: KR2m0053_WYG_116-4a02}
   - {type: indent, offset: 709, content: 　　　, id: KR2m0053_krp_116-bkkind39}
   - {type: punctuation, offset: 709, content: (, id: KR2m0053_krp_116-bkkpn1}
+  - {type: voice, offset: 709, length: 30, name: note, id: n1}
   - {type: punctuation, offset: 724, content: /, id: KR2m0053_krp_116-bkkpn2}
   - {type: punctuation, offset: 739, content: ), id: KR2m0053_krp_116-bkkpn3}
   - {type: 'kr:newline', offset: 739, content: '
@@ -326,6 +327,7 @@ markers:
   - {type: line-break, offset: 810, content: '', id: KR2m0053_WYG_116-4a07}
   - {type: indent, offset: 810, content: 　　, id: KR2m0053_krp_116-bkkind43}
   - {type: punctuation, offset: 810, content: (, id: KR2m0053_krp_116-bkkpn4}
+  - {type: voice, offset: 810, length: 65, name: note, id: n2}
   - {type: punctuation, offset: 830, content: /, id: KR2m0053_krp_116-bkkpn5}
   - {type: substitution, offset: 832, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: punctuation, offset: 836, content: ), id: KR2m0053_krp_116-bkkpn6}
@@ -637,6 +639,7 @@ markers:
   - {type: line-break, offset: 1591, content: '', id: KR2m0053_WYG_116-7a07}
   - {type: indent, offset: 1591, content: 　　　, id: KR2m0053_krp_116-bkkind86}
   - {type: punctuation, offset: 1593, content: (, id: KR2m0053_krp_116-bkkpn13}
+  - {type: voice, offset: 1593, length: 21, name: note, id: n3}
   - {type: punctuation, offset: 1604, content: /, id: KR2m0053_krp_116-bkkpn14}
   - {type: punctuation, offset: 1614, content: ), id: KR2m0053_krp_116-bkkpn15}
   - {type: 'kr:newline', offset: 1614, content: '
@@ -3094,4 +3097,4 @@ markers:
 
       ', id: KR2m0053_krp_116-bkkkrnewl540}
   back: []
-hash: sha256:2d21bff5e45c3511af7a6c2a5157c35f99c809d6cc1120d30565bf515dd68ef7
+hash: sha256:b01b1eaf9df889ebbf0821608b590d5d92e950ef9fa35f13ca1f54ef70e8160b

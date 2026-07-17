@@ -22,6 +22,7 @@ markers:
   - {type: line-break, offset: 4, content: '', id: KR2m0053_WYG_130-1a04}
   - {type: indent, offset: 4, content: 　　, id: KR2m0053_krp_130-bkkind2}
   - {type: punctuation, offset: 11, content: (, id: KR2m0053_krp_130-bkkpn1}
+  - {type: voice, offset: 11, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR2m0053_krp_130-bkkpn2}
   - {type: punctuation, offset: 15, content: ), id: KR2m0053_krp_130-bkkpn3}
   - {type: indent, offset: 15, content: 　, id: KR2m0053_krp_130-bkkind3}
@@ -1566,6 +1567,7 @@ markers:
   - {type: line-break, offset: 3973, content: '', id: KR2m0053_WYG_130-16b04}
   - {type: indent, offset: 3973, content: 　　, id: KR2m0053_krp_130-bkkind235}
   - {type: punctuation, offset: 3973, content: (, id: KR2m0053_krp_130-bkkpn7}
+  - {type: voice, offset: 3973, length: 169, name: note, id: n2}
   - {type: punctuation, offset: 3981, content: /, id: KR2m0053_krp_130-bkkpn8}
   - {type: punctuation, offset: 3988, content: ), id: KR2m0053_krp_130-bkkpn9}
   - {type: 'kr:newline', offset: 3988, content: '
@@ -2635,6 +2637,7 @@ markers:
   - {type: line-break, offset: 7155, content: '', id: KR2m0053_WYG_130-27b05}
   - {type: indent, offset: 7155, content: 　, id: KR2m0053_krp_130-bkkind408}
   - {type: punctuation, offset: 7155, content: (, id: KR2m0053_krp_130-bkkpn31}
+  - {type: voice, offset: 7155, length: 39, name: note, id: n3}
   - {type: substitution, offset: 7168, original: 属, replacement: 屬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17536}}
   - {type: punctuation, offset: 7175, content: /, id: KR2m0053_krp_130-bkkpn32}
   - {type: punctuation, offset: 7193, content: ), id: KR2m0053_krp_130-bkkpn33}
@@ -2754,4 +2757,4 @@ markers:
 
       ', id: KR2m0053_krp_130-bkkkrnewl502}
   back: []
-hash: sha256:3d50c29a7823ea0f7601ba42add0d5de55f57e383ece4d426b84a49d93a0e9a5
+hash: sha256:cf95ce779c92014fa8afc8edaa0a8891b19b332f32dab6f6bc05f54abc46ae35

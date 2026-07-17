@@ -25,6 +25,7 @@ markers:
   - {type: indent, offset: 21, content: 　　　, id: KR2m0053_krp_102-bkkind4}
   - {type: substitution, offset: 23, original: 䘏, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17022}}
   - {type: punctuation, offset: 25, content: (, id: KR2m0053_krp_102-bkkpn1}
+  - {type: voice, offset: 25, length: 24, name: note, id: n1}
   - {type: substitution, offset: 27, original: 䘏, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17022}}
   - {type: substitution, offset: 32, original: 䘏, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17022}}
   - {type: punctuation, offset: 40, content: /, id: KR2m0053_krp_102-bkkpn2}
@@ -1796,4 +1797,4 @@ markers:
 
       ', id: KR2m0053_krp_102-bkkkrnewl324}
   back: []
-hash: sha256:4bebac0821b67f36013b6d718a3bc87a6f486380d74e10e5629f3f3d0224cd8d
+hash: sha256:9c37baf154c140855e82daec519cb99adce9e3f3bab77f0b59b92214ffd38339
